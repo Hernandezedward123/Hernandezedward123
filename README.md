@@ -1,4 +1,4 @@
-#RHC_CIT114
+# RHC_CIT114
 ##  1) Advantages of Having on Site storage room or online storage 
 - Disadvantage can be environment, power, space, cost etc. 
 ## 2) Concepts and Terminology  
