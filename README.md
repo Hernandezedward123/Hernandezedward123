@@ -17,7 +17,7 @@
 - Industry standard (can set the base rate for the same software without need to communicate with one another) 
 - Legal issues and Regulatory (firewalls for the software if It’s on site if it’s not they can access it easy) 
 - 2.9 video that explains the Laas
-## 5)Infrastructure as a service
+## 5) Infrastructure as a service
 - Pay for what you need instead of buying big ticket items (advantages that could go live right aways) ISS from Microsoft that can allow you to open a server (SaaS) 
 - (Software as a service is software with a recurring cost or subscription)
 - (subscripting for the service) 
